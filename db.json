@@ -1,4 +1,4 @@
-{
+{"regions": {
     "profile": {
     "type": "region",
     "number": 44
@@ -37,4 +37,5 @@
       "color": "EE9510FF"
     }
   ]
+}
 }
