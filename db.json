@@ -1,11 +1,40 @@
 {
-  "posts": [
+    "profile": {
+    "type": "region",
+    "number": 44
+  },
+  "sales": [
     {
-      "id": 1,
-      "title": "hello"
+      "period": "M1",
+      "value": 20,
+      "color": "F60E0EFF"
+    },
+    {
+      "period": "M2",
+      "value": 15,
+      "color": "10E708FF"
+    },
+    {
+      "period": "M3",
+      "value": 50,
+      "color": "EE9510FF"
     }
   ],
-  "profile": {
-    "name": "typicode"
-  }
+    "comps": [
+    {
+      "period": "M1",
+      "value": -2,
+      "color": "F60E0EFF"
+    },
+    {
+      "period": "M2",
+      "value": 1.5,
+      "color": "10E708FF"
+    },
+    {
+      "period": "M3",
+      "value": 5,
+      "color": "EE9510FF"
+    }
+  ]
 }
