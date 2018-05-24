@@ -7,62 +7,62 @@
       {
         "period": "M1",
         "value": 20,
-        "color": "F60E0EFF"
+        "color": "red"
       },
       {
         "period": "M2",
         "value": 15,
-        "color": "10E708FF"
+        "color": "red"
       },
       {
         "period": "M3",
         "value": 50,
-        "color": "EE9510FF"
+        "color": "green"
       },
             {
         "period": "M4",
         "value": 10,
-        "color": "F60E0EFF"
+        "color": "red"
       },
       {
         "period": "M5",
         "value": 55,
-        "color": "10E708FF"
+        "color": "green"
       },
       {
         "period": "M6",
         "value": 50,
-        "color": "EE9510FF"
+        "color": "green"
       },
             {
         "period": "M7",
         "value": 20,
-        "color": "F60E0EFF"
+        "color": "orange"
       },
       {
         "period": "M8",
         "value": 15,
-        "color": "10E708FF"
+        "color": "orange"
       },
       {
         "period": "M9",
         "value": 50,
-        "color": "EE9510FF"
+        "color": "orange"
       },
             {
         "period": "M10",
         "value": 20,
-        "color": "F60E0EFF"
+        "color": "orange"
       },
       {
         "period": "M11",
         "value": 15,
-        "color": "10E708FF"
+        "color": "orange"
       },
       {
         "period": "M12",
         "value": 50,
-        "color": "EE9510FF"
+        "color": "orange"
       }
     ],
     "comps": [
