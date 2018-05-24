@@ -69,17 +69,17 @@
       {
         "period": "M1",
         "value": -2,
-        "color": "F60E0EFF"
+        "color": "red"
       },
       {
         "period": "M2",
         "value": 1.5,
-        "color": "10E708FF"
+        "color": "orange"
       },
       {
         "period": "M3",
         "value": 5,
-        "color": "EE9510FF"
+        "color": "green"
       }
     ]
   }]
