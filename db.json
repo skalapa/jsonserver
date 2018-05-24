@@ -6,12 +6,12 @@
     "sales": [
       {
         "period": "M1",
-        "value": 20,
+        "value": 100,
         "color": "red"
       },
       {
         "period": "M2",
-        "value": 15,
+        "value": 75,
         "color": "red"
       },
       {
@@ -21,7 +21,7 @@
       },
             {
         "period": "M4",
-        "value": 10,
+        "value": 50,
         "color": "red"
       },
       {
