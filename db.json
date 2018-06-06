@@ -1,86 +1,351 @@
-{ "regions": [{
-    "profile": {
-      "type": "region",
-      "number": 44
-    },
-    "sales": [
-      {
-        "period": "M1",
-        "value": 100,
-        "color": "red"
+{
+  "regions": [
+    {
+      "profile": {
+        "type": "region",
+        "number": 44,
+        "nlg": "https://console.bluemix.net/docs/services/ArriaNLG/index.html"
       },
-      {
-        "period": "M2",
-        "value": 75,
-        "color": "red"
-      },
-      {
-        "period": "M3",
-        "value": 50,
-        "color": "green"
-      },
+      "sales": [
+        {
+          "period": "M1",
+          "value": 20,
+          "color": "F60E0EFF"
+        },
+        {
+          "period": "M2",
+          "value": 15,
+          "color": "10E708FF"
+        },
+        {
+          "period": "M3",
+          "value": 50,
+          "color": "EE9510FF"
+        },
+        {
+          "period": "M4",
+          "value": 10,
+          "color": "F60E0EFF"
+        },
+        {
+          "period": "M5",
+          "value": 55,
+          "color": "10E708FF"
+        },
+        {
+          "period": "M6",
+          "value": 50,
+          "color": "EE9510FF"
+        },
+        {
+          "period": "M7",
+          "value": 20,
+          "color": "F60E0EFF"
+        },
+        {
+          "period": "M8",
+          "value": 15,
+          "color": "10E708FF"
+        },
+        {
+          "period": "M9",
+          "value": 50,
+          "color": "EE9510FF"
+        },
+        {
+          "period": "M10",
+          "value": 20,
+          "color": "F60E0EFF"
+        },
+        {
+          "period": "M11",
+          "value": 15,
+          "color": "10E708FF"
+        },
+        {
+          "period": "M12",
+          "value": 50,
+          "color": "EE9510FF"
+        }
+      ],
+      "comps": [
+        {
+          "period": "M1",
+          "value": -2,
+          "color": "F60E0EFF"
+        },
+        {
+          "period": "M2",
+          "value": 1.5,
+          "color": "10E708FF"
+        },
+        {
+          "period": "M3",
+          "value": 5,
+          "color": "EE9510FF"
+        }
+      ],
+      "markets": [
+        {
+          "market": 70,
+          "actuals": "2.2 M",
+          "plan": "1.8 M",
+          "comp": "-0.3%",
+          "color": "green",
+          "nlg": "https://console.bluemix.net/docs/services/ArriaNLG/index.html",
+          "sales": [
             {
-        "period": "M4",
-        "value": 50,
-        "color": "red"
-      },
-      {
-        "period": "M5",
-        "value": 55,
-        "color": "green"
-      },
-      {
-        "period": "M6",
-        "value": 50,
-        "color": "green"
-      },
+              "period": "M1",
+              "value": 20,
+              "color": "F60E0EFF"
+            },
             {
-        "period": "M7",
-        "value": 20,
-        "color": "orange"
-      },
-      {
-        "period": "M8",
-        "value": 15,
-        "color": "orange"
-      },
-      {
-        "period": "M9",
-        "value": 50,
-        "color": "orange"
-      },
+              "period": "M2",
+              "value": 15,
+              "color": "10E708FF"
+            },
             {
-        "period": "M10",
-        "value": 20,
-        "color": "orange"
+              "period": "M3",
+              "value": 50,
+              "color": "EE9510FF"
+            },
+            {
+              "period": "M4",
+              "value": 10,
+              "color": "F60E0EFF"
+            },
+            {
+              "period": "M5",
+              "value": 55,
+              "color": "10E708FF"
+            },
+            {
+              "period": "M6",
+              "value": 50,
+              "color": "EE9510FF"
+            },
+            {
+              "period": "M7",
+              "value": 20,
+              "color": "F60E0EFF"
+            },
+            {
+              "period": "M8",
+              "value": 15,
+              "color": "10E708FF"
+            },
+            {
+              "period": "M9",
+              "value": 50,
+              "color": "EE9510FF"
+            },
+            {
+              "period": "M10",
+              "value": 20,
+              "color": "F60E0EFF"
+            },
+            {
+              "period": "M11",
+              "value": 15,
+              "color": "10E708FF"
+            },
+            {
+              "period": "M12",
+              "value": 50,
+              "color": "EE9510FF"
+            }
+          ],
+          "comps": [
+            {
+              "period": "M1",
+              "value": -2,
+              "color": "F60E0EFF"
+            },
+            {
+              "period": "M2",
+              "value": 1.5,
+              "color": "10E708FF"
+            },
+            {
+              "period": "M3",
+              "value": 5,
+              "color": "EE9510FF"
+            }
+          ],
+          "stores": [
+            {
+              "store": 100,
+              "actuals": "2.2 M",
+              "plan": "1.8 M",
+              "comp": "-0.3%",
+              "color": "green",
+              "nlg": "https://console.bluemix.net/docs/services/ArriaNLG/index.html"
+            },
+            {
+              "store": 1031,
+              "actuals": "2.2 M",
+              "plan": "2.8 M",
+              "comp": "0.73%",
+              "color": "red",
+              "nlg": "https://console.bluemix.net/docs/services/ArriaNLG/index.html"
+            },
+            {
+              "store": 5455,
+              "actuals": "2.0 M",
+              "plan": "2.8 M",
+              "comp": "0.03%",
+              "color": "red",
+              "nlg": "https://console.bluemix.net/docs/services/ArriaNLG/index.html"
+            },
+            {
+              "store": 1,
+              "actuals": "2.2 M",
+              "plan": "1.8 M",
+              "comp": "-0.53%",
+              "color": "green",
+              "nlg": "https://console.bluemix.net/docs/services/ArriaNLG/index.html"
+            }
+          ]
+        },
+        {
+          "market": 73,
+          "actuals": "2.2 M",
+          "plan": "2.8 M",
+          "comp": "0.73%",
+          "color": "red"
+        },
+        {
+          "market": 75,
+          "actuals": "2.0 M",
+          "plan": "2.8 M",
+          "comp": "0.03%",
+          "color": "red"
+        },
+        {
+          "market": 71,
+          "actuals": "2.2 M",
+          "plan": "1.8 M",
+          "comp": "-0.53%",
+          "color": "green"
+        }
+      ]
+    }
+  ],
+  "markets": [
+    {
+      "profile": {
+        "type": "region",
+        "number": 44
       },
-      {
-        "period": "M11",
-        "value": 15,
-        "color": "orange"
-      },
-      {
-        "period": "M12",
-        "value": 50,
-        "color": "orange"
-      }
-    ],
-    "comps": [
-      {
-        "period": "M1",
-        "value": -2,
-        "color": "red"
-      },
-      {
-        "period": "M2",
-        "value": 1.5,
-        "color": "orange"
-      },
-      {
-        "period": "M3",
-        "value": 5,
-        "color": "green"
-      }
-    ]
-  }]
+      "sales": [
+        {
+          "period": "M1",
+          "value": 20,
+          "color": "F60E0EFF"
+        },
+        {
+          "period": "M2",
+          "value": 15,
+          "color": "10E708FF"
+        },
+        {
+          "period": "M3",
+          "value": 50,
+          "color": "EE9510FF"
+        },
+        {
+          "period": "M4",
+          "value": 10,
+          "color": "F60E0EFF"
+        },
+        {
+          "period": "M5",
+          "value": 55,
+          "color": "10E708FF"
+        },
+        {
+          "period": "M6",
+          "value": 50,
+          "color": "EE9510FF"
+        },
+        {
+          "period": "M7",
+          "value": 20,
+          "color": "F60E0EFF"
+        },
+        {
+          "period": "M8",
+          "value": 15,
+          "color": "10E708FF"
+        },
+        {
+          "period": "M9",
+          "value": 50,
+          "color": "EE9510FF"
+        },
+        {
+          "period": "M10",
+          "value": 20,
+          "color": "F60E0EFF"
+        },
+        {
+          "period": "M11",
+          "value": 15,
+          "color": "10E708FF"
+        },
+        {
+          "period": "M12",
+          "value": 50,
+          "color": "EE9510FF"
+        }
+      ],
+      "comps": [
+        {
+          "period": "M1",
+          "value": -2,
+          "color": "F60E0EFF"
+        },
+        {
+          "period": "M2",
+          "value": 1.5,
+          "color": "10E708FF"
+        },
+        {
+          "period": "M3",
+          "value": 5,
+          "color": "EE9510FF"
+        }
+      ],
+      "markets": [
+        {
+          "market": 70,
+          "actuals": "2.2 M",
+          "plan": "1.8 M",
+          "comp": "-0.3%",
+          "color": "green"
+        },
+        {
+          "market": 73,
+          "actuals": "2.2 M",
+          "plan": "2.8 M",
+          "comp": "0.73%",
+          "color": "red"
+        },
+        {
+          "market": 75,
+          "actuals": "2.0 M",
+          "plan": "2.8 M",
+          "comp": "0.03%",
+          "color": "red"
+        },
+        {
+          "market": 71,
+          "actuals": "2.2 M",
+          "plan": "1.8 M",
+          "comp": "-0.53%",
+          "color": "green"
+        }
+      ]
+    }
+  ]
 }
