@@ -2,394 +2,112 @@
   "regions": [
     {
       "profile": {
-        "type": "region",
+        "type": "Region",
         "number": 44,
-        "nlg": "ngl text for TTS"
+        "nlg": "ngl text for TTS - Region top line summary",
+        "YTDSalesChart": "https://docs.microsoft.com/en-us/power-bi/media/power-bi-visualization-combo-chart/power-bi-titles-on.png",
+        "MTDSalesChart": "https://docs.microsoft.com/en-us/power-bi/media/power-bi-visualization-combo-chart/power-bi-titles-on.png",
+        "WTDSalesChart": "https://docs.microsoft.com/en-us/power-bi/media/power-bi-visualization-combo-chart/power-bi-titles-on.png",
+        "YTDCompsChart": "https://docs.microsoft.com/en-us/power-bi/media/power-bi-visualization-combo-chart/power-bi-titles-on.png",
+        "MTDCompsChart": "https://docs.microsoft.com/en-us/power-bi/media/power-bi-visualization-combo-chart/power-bi-titles-on.png",
+        "WTDCompsChart": "https://docs.microsoft.com/en-us/power-bi/media/power-bi-visualization-combo-chart/power-bi-titles-on.png"
       },
-      "sales": [
-        {
-          "period": "M1",
-          "actaul": 0,
-          "plan": 1,
-          "falg": "none"
-        },
-        {
-          "period": "M2",
-          "actaul": 1.1,
-          "plan": 1,
-          "falg": "above"
-        },
-        {
-          "period": "M3",
-          "actaul": 0.6,
-          "plan": 1,
-          "falg": "below"
-        },
-        {
-          "period": "M2",
-          "actaul": 1.1,
-          "plan": 1,
-          "falg": "above"
-        },
-        {
-          "period": "M1",
-          "actaul": 0,
-          "plan": 1,
-          "falg": "none"
-        }
-      ],
-      "comps": [
-        {
-          "period": "M1",
-          "value": -2
-        },
-        {
-          "period": "M2",
-          "value": 1.5
-        },
-        {
-          "period": "M3",
-          "value": 5
-        }
-      ],
       "markets": [
         {
           "profile": {
             "market": 70,
-            "actuals": 2.2,
-            "plan": 1.8,
-            "comp": 0.4,
-            "flag": "above",
-            "nlg": "TTS Text"
+            "nlg": "TTS Text - Market top line summary",
+            "YTDSalesChart": "https://docs.microsoft.com/en-us/power-bi/media/power-bi-visualization-combo-chart/power-bi-titles-on.png",
+            "MTDSalesChart": "https://docs.microsoft.com/en-us/power-bi/media/power-bi-visualization-combo-chart/power-bi-titles-on.png",
+            "WTDSalesChart": "https://docs.microsoft.com/en-us/power-bi/media/power-bi-visualization-combo-chart/power-bi-titles-on.png",
+            "YTDCompsChart": "https://docs.microsoft.com/en-us/power-bi/media/power-bi-visualization-combo-chart/power-bi-titles-on.png",
+            "MTDCompsChart": "https://docs.microsoft.com/en-us/power-bi/media/power-bi-visualization-combo-chart/power-bi-titles-on.png",
+            "WTDCompsChart": "https://docs.microsoft.com/en-us/power-bi/media/power-bi-visualization-combo-chart/power-bi-titles-on.png"
           },
-          "sales": [
-            {
-              "period": "M1",
-              "actaul": 0,
-              "plan": 1,
-              "falg": "none"
-            },
-            {
-              "period": "M2",
-              "actaul": 1.1,
-              "plan": 1,
-              "falg": "above"
-            },
-            {
-              "period": "M3",
-              "actaul": 0.6,
-              "plan": 1,
-              "falg": "below"
-            },
-            {
-              "period": "M2",
-              "actaul": 1.1,
-              "plan": 1,
-              "falg": "above"
-            },
-            {
-              "period": "M1",
-              "actaul": 0,
-              "plan": 1,
-              "falg": "none"
-            }
-          ],
-          "comps": [
-            {
-              "period": "M1",
-              "value": -2
-            },
-            {
-              "period": "M2",
-              "value": 1.5
-            },
-            {
-              "period": "M3",
-              "value": 5
-            }
-          ],
+          "YTD": {
+            "actual": 0.7,
+            "plan": 1.5,
+            "comp": 2.5,
+            "flag": "below"
+          },
+          "MTD": {
+            "actualCurrentYear": 1.1,
+            "actualLastYear": 1,
+            "flag": "above",
+            "compCurrentYear": 2.2,
+            "compLastYear": -0.2
+          },
+          "WTD": {
+            "actualCurrentYear": 1.1,
+            "actualLastYear": 1,
+            "flag": "above",
+            "compCurrentYear": 2.2,
+            "compLastYear": 2.2
+          },
           "stores": [
             {
               "profile": {
                 "store": 100,
-                "actuals": "2.2 M",
-                "plan": "1.8 M",
-                "comp": "-0.3%",
-                "color": "green",
-                "nlg": "TTS text"
+                "nlg": "TTS text - store top line summary",
+                "YTDSalesChart": "https://docs.microsoft.com/en-us/power-bi/media/power-bi-visualization-combo-chart/power-bi-titles-on.png",
+                "MTDSalesChart": "https://docs.microsoft.com/en-us/power-bi/media/power-bi-visualization-combo-chart/power-bi-titles-on.png",
+                "WTDSalesChart": "https://docs.microsoft.com/en-us/power-bi/media/power-bi-visualization-combo-chart/power-bi-titles-on.png",
+                "YTDCompsChart": "https://docs.microsoft.com/en-us/power-bi/media/power-bi-visualization-combo-chart/power-bi-titles-on.png",
+                "MTDCompsChart": "https://docs.microsoft.com/en-us/power-bi/media/power-bi-visualization-combo-chart/power-bi-titles-on.png",
+                "WTDCompsChart": "https://docs.microsoft.com/en-us/power-bi/media/power-bi-visualization-combo-chart/power-bi-titles-on.png"
               },
-              "sales": [
-                {
-                  "period": "M1",
-                  "actaul": 0,
-                  "plan": 1,
-                  "falg": "none"
-                },
-                {
-                  "period": "M2",
-                  "actaul": 1.1,
-                  "plan": 1,
-                  "falg": "above"
-                },
-                {
-                  "period": "M3",
-                  "actaul": 0.6,
-                  "plan": 1,
-                  "falg": "below"
-                },
-                {
-                  "period": "M2",
-                  "actaul": 1.1,
-                  "plan": 1,
-                  "falg": "above"
-                },
-                {
-                  "period": "M1",
-                  "actaul": 0,
-                  "plan": 1,
-                  "falg": "none"
-                }
-              ],
-              "comps": [
-                {
-                  "period": "M1",
-                  "value": -2
-                },
-                {
-                  "period": "M2",
-                  "value": 1.5
-                },
-                {
-                  "period": "M3",
-                  "value": 5
-                }
-              ]
-            },
-            {
-              "profile": {
-                "store": 101,
-                "actuals": "2.2 M",
-                "plan": "1.8 M",
-                "comp": "-0.3%",
-                "color": "green",
-                "nlg": "TTS text"
+              "YTD": {
+                "actual": 0.7,
+                "plan": 1.5,
+                "comp": 2.5,
+                "flag": "below"
               },
-              "sales": [
-                {
-                  "period": "M1",
-                  "actaul": 0,
-                  "plan": 1,
-                  "falg": "none"
-                },
-                {
-                  "period": "M2",
-                  "actaul": 1.1,
-                  "plan": 1,
-                  "falg": "above"
-                },
-                {
-                  "period": "M3",
-                  "actaul": 0.6,
-                  "plan": 1,
-                  "falg": "below"
-                },
-                {
-                  "period": "M2",
-                  "actaul": 1.1,
-                  "plan": 1,
-                  "falg": "above"
-                },
-                {
-                  "period": "M1",
-                  "actaul": 0,
-                  "plan": 1,
-                  "falg": "none"
-                }
-              ],
-              "comps": [
-                {
-                  "period": "M1",
-                  "value": -2
-                },
-                {
-                  "period": "M2",
-                  "value": 1.5
-                },
-                {
-                  "period": "M3",
-                  "value": 5
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "profile": {
-            "market": 71,
-            "actuals": 2.2,
-            "plan": 1.8,
-            "comp": 0.4,
-            "flag": "above",
-            "nlg": "TTS Text"
-          },
-          "sales": [
-            {
-              "period": "M1",
-              "actaul": 0,
-              "plan": 1,
-              "falg": "none"
+              "MTD": {
+                "actualCurrentYear": 1.1,
+                "actualLastYear": 1,
+                "flag": "above",
+                "compCurrentYear": 2.2,
+                "compLastYear": -0.2
+              },
+              "WTD": {
+                "actualCurrentYear": 1.1,
+                "actualLastYear": 1,
+                "flag": "above",
+                "compCurrentYear": 2.2,
+                "compLastYear": 2.2
+              }
             },
-            {
-              "period": "M2",
-              "actaul": 1.1,
-              "plan": 1,
-              "falg": "above"
-            },
-            {
-              "period": "M3",
-              "actaul": 0.6,
-              "plan": 1,
-              "falg": "below"
-            },
-            {
-              "period": "M2",
-              "actaul": 1.1,
-              "plan": 1,
-              "falg": "above"
-            },
-            {
-              "period": "M1",
-              "actaul": 0,
-              "plan": 1,
-              "falg": "none"
-            }
-          ],
-          "comps": [
-            {
-              "period": "M1",
-              "value": -2
-            },
-            {
-              "period": "M2",
-              "value": 1.5
-            },
-            {
-              "period": "M3",
-              "value": 5
-            }
-          ],
-          "stores": [
             {
               "profile": {
                 "store": 100,
-                "actuals": "2.2 M",
-                "plan": "1.8 M",
-                "comp": "-0.3%",
-                "color": "green",
-                "nlg": "TTS text"
+                "nlg": "TTS text - store top line summary",
+                "YTDSalesChart": "https://docs.microsoft.com/en-us/power-bi/media/power-bi-visualization-combo-chart/power-bi-titles-on.png",
+                "MTDSalesChart": "https://docs.microsoft.com/en-us/power-bi/media/power-bi-visualization-combo-chart/power-bi-titles-on.png",
+                "WTDSalesChart": "https://docs.microsoft.com/en-us/power-bi/media/power-bi-visualization-combo-chart/power-bi-titles-on.png",
+                "YTDCompsChart": "https://docs.microsoft.com/en-us/power-bi/media/power-bi-visualization-combo-chart/power-bi-titles-on.png",
+                "MTDCompsChart": "https://docs.microsoft.com/en-us/power-bi/media/power-bi-visualization-combo-chart/power-bi-titles-on.png",
+                "WTDCompsChart": "https://docs.microsoft.com/en-us/power-bi/media/power-bi-visualization-combo-chart/power-bi-titles-on.png"
               },
-              "sales": [
-                {
-                  "period": "M1",
-                  "actaul": 0,
-                  "plan": 1,
-                  "falg": "none"
-                },
-                {
-                  "period": "M2",
-                  "actaul": 1.1,
-                  "plan": 1,
-                  "falg": "above"
-                },
-                {
-                  "period": "M3",
-                  "actaul": 0.6,
-                  "plan": 1,
-                  "falg": "below"
-                },
-                {
-                  "period": "M2",
-                  "actaul": 1.1,
-                  "plan": 1,
-                  "falg": "above"
-                },
-                {
-                  "period": "M1",
-                  "actaul": 0,
-                  "plan": 1,
-                  "falg": "none"
-                }
-              ],
-              "comps": [
-                {
-                  "period": "M1",
-                  "value": -2
-                },
-                {
-                  "period": "M2",
-                  "value": 1.5
-                },
-                {
-                  "period": "M3",
-                  "value": 5
-                }
-              ]
-            },
-            {
-              "profile": {
-                "store": 101,
-                "actuals": "2.2 M",
-                "plan": "1.8 M",
-                "comp": "-0.3%",
-                "color": "green",
-                "nlg": "TTS text"
+              "YTD": {
+                "actual": 0.7,
+                "plan": 1.5,
+                "comp": 2.5,
+                "flag": "below"
               },
-              "sales": [
-                {
-                  "period": "M1",
-                  "actaul": 0,
-                  "plan": 1,
-                  "falg": "none"
-                },
-                {
-                  "period": "M2",
-                  "actaul": 1.1,
-                  "plan": 1,
-                  "falg": "above"
-                },
-                {
-                  "period": "M3",
-                  "actaul": 0.6,
-                  "plan": 1,
-                  "falg": "below"
-                },
-                {
-                  "period": "M2",
-                  "actaul": 1.1,
-                  "plan": 1,
-                  "falg": "above"
-                },
-                {
-                  "period": "M1",
-                  "actaul": 0,
-                  "plan": 1,
-                  "falg": "none"
-                }
-              ],
-              "comps": [
-                {
-                  "period": "M1",
-                  "value": -2
-                },
-                {
-                  "period": "M2",
-                  "value": 1.5
-                },
-                {
-                  "period": "M3",
-                  "value": 5
-                }
-              ]
+              "MTD": {
+                "actualCurrentYear": 1.1,
+                "actualLastYear": 1,
+                "flag": "above",
+                "compCurrentYear": 2.2,
+                "compLastYear": -0.2
+              },
+              "WTD": {
+                "actualCurrentYear": 1.1,
+                "actualLastYear": 1,
+                "flag": "above",
+                "compCurrentYear": 2.2,
+                "compLastYear": 2.2
+              }
             }
           ]
         }
