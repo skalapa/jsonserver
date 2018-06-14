@@ -122,10 +122,10 @@
           "WTDCompsChart": "https://docs.microsoft.com/en-us/power-bi/media/power-bi-visualization-combo-chart/power-bi-titles-on.png"
         },
         "YTD": {
-          "actual": 1.0,
+          "actual": 0.3,
           "plan": 1.5,
           "comp": 2.5,
-          "flag": "above"
+          "flag": "none"
         },
         "stores": [        ]
       }
