@@ -5,11 +5,11 @@
       "number": 44,
       "nlg": "ngl text for TTS - Region top line summary",
       "YTDSalesChart": "https://docs.microsoft.com/en-us/power-bi/media/power-bi-visualization-combo-chart/power-bi-titles-on.png",
-      "MTDSalesChart": "https://docs.microsoft.com/en-us/power-bi/media/power-bi-visualization-combo-chart/power-bi-titles-on.png",
-      "WTDSalesChart": "https://docs.microsoft.com/en-us/power-bi/media/power-bi-visualization-combo-chart/power-bi-titles-on.png",
+      "MTDSalesChart": "https://www.mssqltips.com/tipimages2/5267_performance-analysis-ribbon-chart-power-bi-desktop.010.png",
+      "WTDSalesChart": "https://powerbi.tips/wp-content/uploads/2016/10/Pareto-Charts.png",
       "YTDCompsChart": "http://profunda-analytics.com/wp-content/uploads/2017/09/Chord-Chart-Featured-Image-885x640.png",
-      "MTDCompsChart": "http://profunda-analytics.com/wp-content/uploads/2017/09/Chord-Chart-Featured-Image-885x640.png",
-      "WTDCompsChart": "http://profunda-analytics.com/wp-content/uploads/2017/09/Chord-Chart-Featured-Image-885x640.png"
+      "MTDCompsChart": "https://www.sqlbi.com/okviz/wp-content/uploads/sites/261/2016/12/main-1.png",
+      "WTDCompsChart": "https://zoomcharts.com/templates/default/v3/img/power-bi/visual-gallery-fc-2.jpg"
     },
     "markets": [
       {
