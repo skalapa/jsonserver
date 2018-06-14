@@ -1,4 +1,4 @@
-[
+{"regions" : [
   {
     "profile": {
       "type": "Region",
@@ -127,22 +127,9 @@
           "comp": 2.5,
           "flag": "above"
         },
-        "MTD": {
-          "actualCurrentYear": 1.1,
-          "actualLastYear": 1,
-          "flag": "above",
-          "compCurrentYear": 2.2,
-          "compLastYear": -0.2
-        },
-        "WTD": {
-          "actualCurrentYear": 1.1,
-          "actualLastYear": 1,
-          "flag": "above",
-          "compCurrentYear": 2.2,
-          "compLastYear": 2.2
-        },
         "stores": [        ]
       }
     ]
   }
 ]
+}
