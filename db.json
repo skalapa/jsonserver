@@ -7,9 +7,9 @@
       "YTDSalesChart": "https://docs.microsoft.com/en-us/power-bi/media/power-bi-visualization-combo-chart/power-bi-titles-on.png",
       "MTDSalesChart": "https://docs.microsoft.com/en-us/power-bi/media/power-bi-visualization-combo-chart/power-bi-titles-on.png",
       "WTDSalesChart": "https://docs.microsoft.com/en-us/power-bi/media/power-bi-visualization-combo-chart/power-bi-titles-on.png",
-      "YTDCompsChart": "https://docs.microsoft.com/en-us/power-bi/media/power-bi-visualization-combo-chart/power-bi-titles-on.png",
-      "MTDCompsChart": "https://docs.microsoft.com/en-us/power-bi/media/power-bi-visualization-combo-chart/power-bi-titles-on.png",
-      "WTDCompsChart": "https://docs.microsoft.com/en-us/power-bi/media/power-bi-visualization-combo-chart/power-bi-titles-on.png"
+      "YTDCompsChart": "http://profunda-analytics.com/wp-content/uploads/2017/09/Chord-Chart-Featured-Image-885x640.png",
+      "MTDCompsChart": "http://profunda-analytics.com/wp-content/uploads/2017/09/Chord-Chart-Featured-Image-885x640.png",
+      "WTDCompsChart": "http://profunda-analytics.com/wp-content/uploads/2017/09/Chord-Chart-Featured-Image-885x640.png"
     },
     "markets": [
       {
@@ -51,9 +51,9 @@
               "YTDSalesChart": "https://docs.microsoft.com/en-us/power-bi/media/power-bi-visualization-combo-chart/power-bi-titles-on.png",
               "MTDSalesChart": "https://docs.microsoft.com/en-us/power-bi/media/power-bi-visualization-combo-chart/power-bi-titles-on.png",
               "WTDSalesChart": "https://docs.microsoft.com/en-us/power-bi/media/power-bi-visualization-combo-chart/power-bi-titles-on.png",
-              "YTDCompsChart": "https://docs.microsoft.com/en-us/power-bi/media/power-bi-visualization-combo-chart/power-bi-titles-on.png",
-              "MTDCompsChart": "https://docs.microsoft.com/en-us/power-bi/media/power-bi-visualization-combo-chart/power-bi-titles-on.png",
-              "WTDCompsChart": "https://docs.microsoft.com/en-us/power-bi/media/power-bi-visualization-combo-chart/power-bi-titles-on.png"
+              "YTDCompsChart": "https://devinknightsql.files.wordpress.com/2016/10/image13.png",
+              "MTDCompsChart": "https://devinknightsql.files.wordpress.com/2016/10/image13.png",
+              "WTDCompsChart": "https://devinknightsql.files.wordpress.com/2016/10/image13.png"
             },
             "YTD": {
               "actual": 0.7,
@@ -83,9 +83,9 @@
               "YTDSalesChart": "https://docs.microsoft.com/en-us/power-bi/media/power-bi-visualization-combo-chart/power-bi-titles-on.png",
               "MTDSalesChart": "https://docs.microsoft.com/en-us/power-bi/media/power-bi-visualization-combo-chart/power-bi-titles-on.png",
               "WTDSalesChart": "https://docs.microsoft.com/en-us/power-bi/media/power-bi-visualization-combo-chart/power-bi-titles-on.png",
-              "YTDCompsChart": "https://docs.microsoft.com/en-us/power-bi/media/power-bi-visualization-combo-chart/power-bi-titles-on.png",
-              "MTDCompsChart": "https://docs.microsoft.com/en-us/power-bi/media/power-bi-visualization-combo-chart/power-bi-titles-on.png",
-              "WTDCompsChart": "https://docs.microsoft.com/en-us/power-bi/media/power-bi-visualization-combo-chart/power-bi-titles-on.png"
+              "YTDCompsChart": "https://devinknightsql.files.wordpress.com/2016/10/image13.png",
+              "MTDCompsChart": "https://devinknightsql.files.wordpress.com/2016/10/image13.png",
+              "WTDCompsChart": "https://devinknightsql.files.wordpress.com/2016/10/image13.png"
             },
             "YTD": {
               "actual": 0.7,
