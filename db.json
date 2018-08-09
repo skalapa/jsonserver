@@ -15,7 +15,7 @@
       {
         "profile": {
           "market": 70,
-          "nlg": "TTS Text - Market top line summary",
+          "nlg": "Market 70 top line summary. In addition to comp sales growth of 2.1 percent, more people shopped with us as comp traffic improved 0.8 percent. Comp sales were trending higher through early April, but general merchandise sales and traffic were somewhat negatively impacted by unseasonably cool weather in April.",
           "YTDSalesChart": "https://docs.microsoft.com/en-us/power-bi/media/power-bi-visualization-combo-chart/power-bi-titles-on.png",
           "MTDSalesChart": "https://docs.microsoft.com/en-us/power-bi/media/power-bi-visualization-combo-chart/power-bi-titles-on.png",
           "WTDSalesChart": "https://docs.microsoft.com/en-us/power-bi/media/power-bi-visualization-combo-chart/power-bi-titles-on.png",
@@ -113,7 +113,7 @@
             {
         "profile": {
           "market": 47,
-          "nlg": "TTS Text - Market top line summary",
+          "nlg": "Market 47 top line summary. In addition to comp sales growth of 2.1 percent, more people shopped with us as comp traffic improved 0.8 percent. Comp sales were trending higher through early April, but general merchandise sales and traffic were somewhat negatively impacted by unseasonably cool weather in April.",
           "YTDSalesChart": "https://docs.microsoft.com/en-us/power-bi/media/power-bi-visualization-combo-chart/power-bi-titles-on.png",
           "MTDSalesChart": "https://docs.microsoft.com/en-us/power-bi/media/power-bi-visualization-combo-chart/power-bi-titles-on.png",
           "WTDSalesChart": "https://docs.microsoft.com/en-us/power-bi/media/power-bi-visualization-combo-chart/power-bi-titles-on.png",
