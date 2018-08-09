@@ -1,5 +1,5 @@
-{"regions" : {
-  "myregion": [
+{"regions" : 
+ [
   {
     "profile": {
       "type": "Region",
@@ -133,4 +133,4 @@
     ]
   }
 ]
-}}
+}
