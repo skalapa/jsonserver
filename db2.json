@@ -1,0 +1,605 @@
+[
+  {
+    "profile": {
+      "type": "Region",
+      "number": 44,
+      "nlg": "Region 44 top line summary",
+      "YTDSalesChart": "https://docs.microsoft.com/en-us/power-bi/media/power-bi-visualization-combo-chart/power-bi-titles-on.png",
+      "MTDSalesChart": "https://www.mssqltips.com/tipimages2/5267_performance-analysis-ribbon-chart-power-bi-desktop.010.png",
+      "WTDSalesChart": "https://powerbi.tips/wp-content/uploads/2016/10/Pareto-Charts.png",
+      "YTDCompsChart": "http://profunda-analytics.com/wp-content/uploads/2017/09/Chord-Chart-Featured-Image-885x640.png",
+      "MTDCompsChart": "https://www.sqlbi.com/okviz/wp-content/uploads/sites/261/2016/12/main-1.png",
+      "WTDCompsChart": "https://zoomcharts.com/templates/default/v3/img/power-bi/visual-gallery-fc-2.jpg"
+    },
+    "markets": [
+      {
+        "profile": {
+          "market": 47,
+          "nlg": "Market 47 top line summary",
+          "YTDSalesChart": "https://docs.microsoft.com/en-us/power-bi/media/power-bi-visualization-combo-chart/power-bi-titles-on.png",
+          "MTDSalesChart": "https://docs.microsoft.com/en-us/power-bi/media/power-bi-visualization-combo-chart/power-bi-titles-on.png",
+          "WTDSalesChart": "https://docs.microsoft.com/en-us/power-bi/media/power-bi-visualization-combo-chart/power-bi-titles-on.png",
+          "YTDCompsChart": "https://docs.microsoft.com/en-us/power-bi/media/power-bi-visualization-combo-chart/power-bi-titles-on.png",
+          "MTDCompsChart": "https://docs.microsoft.com/en-us/power-bi/media/power-bi-visualization-combo-chart/power-bi-titles-on.png",
+          "WTDCompsChart": "https://docs.microsoft.com/en-us/power-bi/media/power-bi-visualization-combo-chart/power-bi-titles-on.png"
+        },
+        "YTD": {
+          "actual": 1.7,
+          "plan": 1.5,
+          "comp": 2.5,
+          "flag": "below"
+        },
+        "MTD": {
+          "actualCurrentYear": 1.1,
+          "actualLastYear": 1,
+          "flag": "above",
+          "compCurrentYear": 2.2,
+          "compLastYear": -0.2
+        },
+        "WTD": {
+          "actualCurrentYear": 1.1,
+          "actualLastYear": 1,
+          "flag": "above",
+          "compCurrentYear": 2.2,
+          "compLastYear": 2.2
+        },
+        "stores": [
+          {
+            "profile": {
+              "store": 100,
+              "nlg": "TTS text - store top line summary",
+              "YTDSalesChart": "https://docs.microsoft.com/en-us/power-bi/media/power-bi-visualization-combo-chart/power-bi-titles-on.png",
+              "MTDSalesChart": "https://docs.microsoft.com/en-us/power-bi/media/power-bi-visualization-combo-chart/power-bi-titles-on.png",
+              "WTDSalesChart": "https://docs.microsoft.com/en-us/power-bi/media/power-bi-visualization-combo-chart/power-bi-titles-on.png",
+              "YTDCompsChart": "https://devinknightsql.files.wordpress.com/2016/10/image13.png",
+              "MTDCompsChart": "https://devinknightsql.files.wordpress.com/2016/10/image13.png",
+              "WTDCompsChart": "https://devinknightsql.files.wordpress.com/2016/10/image13.png"
+            },
+            "YTD": {
+              "actual": 0.7,
+              "plan": 1.5,
+              "comp": 2.5,
+              "flag": "below"
+            },
+            "MTD": {
+              "actualCurrentYear": 1.1,
+              "actualLastYear": 1,
+              "flag": "above",
+              "compCurrentYear": 2.2,
+              "compLastYear": -0.2
+            },
+            "WTD": {
+              "actualCurrentYear": 1.1,
+              "actualLastYear": 1,
+              "flag": "above",
+              "compCurrentYear": 2.2,
+              "compLastYear": 2.2
+            }
+          },
+          {
+            "profile": {
+              "store": 100,
+              "nlg": "TTS text - store top line summary",
+              "YTDSalesChart": "https://docs.microsoft.com/en-us/power-bi/media/power-bi-visualization-combo-chart/power-bi-titles-on.png",
+              "MTDSalesChart": "https://docs.microsoft.com/en-us/power-bi/media/power-bi-visualization-combo-chart/power-bi-titles-on.png",
+              "WTDSalesChart": "https://docs.microsoft.com/en-us/power-bi/media/power-bi-visualization-combo-chart/power-bi-titles-on.png",
+              "YTDCompsChart": "https://devinknightsql.files.wordpress.com/2016/10/image13.png",
+              "MTDCompsChart": "https://devinknightsql.files.wordpress.com/2016/10/image13.png",
+              "WTDCompsChart": "https://devinknightsql.files.wordpress.com/2016/10/image13.png"
+            },
+            "YTD": {
+              "actual": 0.7,
+              "plan": 1.5,
+              "comp": 2.5,
+              "flag": "below"
+            },
+            "MTD": {
+              "actualCurrentYear": 1.1,
+              "actualLastYear": 1,
+              "flag": "above",
+              "compCurrentYear": 2.2,
+              "compLastYear": -0.2
+            },
+            "WTD": {
+              "actualCurrentYear": 1.1,
+              "actualLastYear": 1,
+              "flag": "above",
+              "compCurrentYear": 2.2,
+              "compLastYear": 2.2
+            }
+          }
+        ]
+      },
+      {
+        "profile": {
+          "market": 69,
+          "nlg": "Market 69 top line summary",
+          "YTDSalesChart": "https://docs.microsoft.com/en-us/power-bi/media/power-bi-visualization-combo-chart/power-bi-titles-on.png",
+          "MTDSalesChart": "https://docs.microsoft.com/en-us/power-bi/media/power-bi-visualization-combo-chart/power-bi-titles-on.png",
+          "WTDSalesChart": "https://docs.microsoft.com/en-us/power-bi/media/power-bi-visualization-combo-chart/power-bi-titles-on.png",
+          "YTDCompsChart": "https://docs.microsoft.com/en-us/power-bi/media/power-bi-visualization-combo-chart/power-bi-titles-on.png",
+          "MTDCompsChart": "https://docs.microsoft.com/en-us/power-bi/media/power-bi-visualization-combo-chart/power-bi-titles-on.png",
+          "WTDCompsChart": "https://docs.microsoft.com/en-us/power-bi/media/power-bi-visualization-combo-chart/power-bi-titles-on.png"
+        },
+        "YTD": {
+          "actual": 1.7,
+          "plan": 1.5,
+          "comp": 2.5,
+          "flag": "below"
+        },
+        "MTD": {
+          "actualCurrentYear": 1.1,
+          "actualLastYear": 1,
+          "flag": "above",
+          "compCurrentYear": 2.2,
+          "compLastYear": -0.2
+        },
+        "WTD": {
+          "actualCurrentYear": 1.1,
+          "actualLastYear": 1,
+          "flag": "above",
+          "compCurrentYear": 2.2,
+          "compLastYear": 2.2
+        },
+        "stores": [
+          {
+            "profile": {
+              "store": 100,
+              "nlg": "TTS text - store top line summary",
+              "YTDSalesChart": "https://docs.microsoft.com/en-us/power-bi/media/power-bi-visualization-combo-chart/power-bi-titles-on.png",
+              "MTDSalesChart": "https://docs.microsoft.com/en-us/power-bi/media/power-bi-visualization-combo-chart/power-bi-titles-on.png",
+              "WTDSalesChart": "https://docs.microsoft.com/en-us/power-bi/media/power-bi-visualization-combo-chart/power-bi-titles-on.png",
+              "YTDCompsChart": "https://devinknightsql.files.wordpress.com/2016/10/image13.png",
+              "MTDCompsChart": "https://devinknightsql.files.wordpress.com/2016/10/image13.png",
+              "WTDCompsChart": "https://devinknightsql.files.wordpress.com/2016/10/image13.png"
+            },
+            "YTD": {
+              "actual": 0.7,
+              "plan": 1.5,
+              "comp": 2.5,
+              "flag": "below"
+            },
+            "MTD": {
+              "actualCurrentYear": 1.1,
+              "actualLastYear": 1,
+              "flag": "above",
+              "compCurrentYear": 2.2,
+              "compLastYear": -0.2
+            },
+            "WTD": {
+              "actualCurrentYear": 1.1,
+              "actualLastYear": 1,
+              "flag": "above",
+              "compCurrentYear": 2.2,
+              "compLastYear": 2.2
+            }
+          },
+          {
+            "profile": {
+              "store": 100,
+              "nlg": "TTS text - store top line summary",
+              "YTDSalesChart": "https://docs.microsoft.com/en-us/power-bi/media/power-bi-visualization-combo-chart/power-bi-titles-on.png",
+              "MTDSalesChart": "https://docs.microsoft.com/en-us/power-bi/media/power-bi-visualization-combo-chart/power-bi-titles-on.png",
+              "WTDSalesChart": "https://docs.microsoft.com/en-us/power-bi/media/power-bi-visualization-combo-chart/power-bi-titles-on.png",
+              "YTDCompsChart": "https://devinknightsql.files.wordpress.com/2016/10/image13.png",
+              "MTDCompsChart": "https://devinknightsql.files.wordpress.com/2016/10/image13.png",
+              "WTDCompsChart": "https://devinknightsql.files.wordpress.com/2016/10/image13.png"
+            },
+            "YTD": {
+              "actual": 0.7,
+              "plan": 1.5,
+              "comp": 2.5,
+              "flag": "below"
+            },
+            "MTD": {
+              "actualCurrentYear": 1.1,
+              "actualLastYear": 1,
+              "flag": "above",
+              "compCurrentYear": 2.2,
+              "compLastYear": -0.2
+            },
+            "WTD": {
+              "actualCurrentYear": 1.1,
+              "actualLastYear": 1,
+              "flag": "above",
+              "compCurrentYear": 2.2,
+              "compLastYear": 2.2
+            }
+          }
+        ]
+      },
+      {
+        "profile": {
+          "market": 70,
+          "nlg": "Market 70 top line summary",
+          "YTDSalesChart": "https://docs.microsoft.com/en-us/power-bi/media/power-bi-visualization-combo-chart/power-bi-titles-on.png",
+          "MTDSalesChart": "https://docs.microsoft.com/en-us/power-bi/media/power-bi-visualization-combo-chart/power-bi-titles-on.png",
+          "WTDSalesChart": "https://docs.microsoft.com/en-us/power-bi/media/power-bi-visualization-combo-chart/power-bi-titles-on.png",
+          "YTDCompsChart": "https://docs.microsoft.com/en-us/power-bi/media/power-bi-visualization-combo-chart/power-bi-titles-on.png",
+          "MTDCompsChart": "https://docs.microsoft.com/en-us/power-bi/media/power-bi-visualization-combo-chart/power-bi-titles-on.png",
+          "WTDCompsChart": "https://docs.microsoft.com/en-us/power-bi/media/power-bi-visualization-combo-chart/power-bi-titles-on.png"
+        },
+        "YTD": {
+          "actual": 1.7,
+          "plan": 1.5,
+          "comp": 2.5,
+          "flag": "below"
+        },
+        "MTD": {
+          "actualCurrentYear": 1.1,
+          "actualLastYear": 1,
+          "flag": "above",
+          "compCurrentYear": 2.2,
+          "compLastYear": -0.2
+        },
+        "WTD": {
+          "actualCurrentYear": 1.1,
+          "actualLastYear": 1,
+          "flag": "above",
+          "compCurrentYear": 2.2,
+          "compLastYear": 2.2
+        },
+        "stores": [
+          {
+            "profile": {
+              "store": 100,
+              "nlg": "TTS text - store top line summary",
+              "YTDSalesChart": "https://docs.microsoft.com/en-us/power-bi/media/power-bi-visualization-combo-chart/power-bi-titles-on.png",
+              "MTDSalesChart": "https://docs.microsoft.com/en-us/power-bi/media/power-bi-visualization-combo-chart/power-bi-titles-on.png",
+              "WTDSalesChart": "https://docs.microsoft.com/en-us/power-bi/media/power-bi-visualization-combo-chart/power-bi-titles-on.png",
+              "YTDCompsChart": "https://devinknightsql.files.wordpress.com/2016/10/image13.png",
+              "MTDCompsChart": "https://devinknightsql.files.wordpress.com/2016/10/image13.png",
+              "WTDCompsChart": "https://devinknightsql.files.wordpress.com/2016/10/image13.png"
+            },
+            "YTD": {
+              "actual": 0.7,
+              "plan": 1.5,
+              "comp": 2.5,
+              "flag": "below"
+            },
+            "MTD": {
+              "actualCurrentYear": 1.1,
+              "actualLastYear": 1,
+              "flag": "above",
+              "compCurrentYear": 2.2,
+              "compLastYear": -0.2
+            },
+            "WTD": {
+              "actualCurrentYear": 1.1,
+              "actualLastYear": 1,
+              "flag": "above",
+              "compCurrentYear": 2.2,
+              "compLastYear": 2.2
+            }
+          },
+          {
+            "profile": {
+              "store": 100,
+              "nlg": "TTS text - store top line summary",
+              "YTDSalesChart": "https://docs.microsoft.com/en-us/power-bi/media/power-bi-visualization-combo-chart/power-bi-titles-on.png",
+              "MTDSalesChart": "https://docs.microsoft.com/en-us/power-bi/media/power-bi-visualization-combo-chart/power-bi-titles-on.png",
+              "WTDSalesChart": "https://docs.microsoft.com/en-us/power-bi/media/power-bi-visualization-combo-chart/power-bi-titles-on.png",
+              "YTDCompsChart": "https://devinknightsql.files.wordpress.com/2016/10/image13.png",
+              "MTDCompsChart": "https://devinknightsql.files.wordpress.com/2016/10/image13.png",
+              "WTDCompsChart": "https://devinknightsql.files.wordpress.com/2016/10/image13.png"
+            },
+            "YTD": {
+              "actual": 0.7,
+              "plan": 1.5,
+              "comp": 2.5,
+              "flag": "below"
+            },
+            "MTD": {
+              "actualCurrentYear": 1.1,
+              "actualLastYear": 1,
+              "flag": "above",
+              "compCurrentYear": 2.2,
+              "compLastYear": -0.2
+            },
+            "WTD": {
+              "actualCurrentYear": 1.1,
+              "actualLastYear": 1,
+              "flag": "above",
+              "compCurrentYear": 2.2,
+              "compLastYear": 2.2
+            }
+          }
+        ]
+      },
+      {
+        "profile": {
+          "market": 73,
+          "nlg": "Market 73 top line summary",
+          "YTDSalesChart": "https://docs.microsoft.com/en-us/power-bi/media/power-bi-visualization-combo-chart/power-bi-titles-on.png",
+          "MTDSalesChart": "https://docs.microsoft.com/en-us/power-bi/media/power-bi-visualization-combo-chart/power-bi-titles-on.png",
+          "WTDSalesChart": "https://docs.microsoft.com/en-us/power-bi/media/power-bi-visualization-combo-chart/power-bi-titles-on.png",
+          "YTDCompsChart": "https://docs.microsoft.com/en-us/power-bi/media/power-bi-visualization-combo-chart/power-bi-titles-on.png",
+          "MTDCompsChart": "https://docs.microsoft.com/en-us/power-bi/media/power-bi-visualization-combo-chart/power-bi-titles-on.png",
+          "WTDCompsChart": "https://docs.microsoft.com/en-us/power-bi/media/power-bi-visualization-combo-chart/power-bi-titles-on.png"
+        },
+        "YTD": {
+          "actual": 1.7,
+          "plan": 2.5,
+          "comp": 2.5,
+          "flag": "below"
+        },
+        "MTD": {
+          "actualCurrentYear": 1.1,
+          "actualLastYear": 1,
+          "flag": "above",
+          "compCurrentYear": 2.2,
+          "compLastYear": -0.2
+        },
+        "WTD": {
+          "actualCurrentYear": 1.1,
+          "actualLastYear": 1,
+          "flag": "above",
+          "compCurrentYear": 2.2,
+          "compLastYear": 2.2
+        },
+        "stores": [
+          {
+            "profile": {
+              "store": 100,
+              "nlg": "TTS text - store top line summary",
+              "YTDSalesChart": "https://docs.microsoft.com/en-us/power-bi/media/power-bi-visualization-combo-chart/power-bi-titles-on.png",
+              "MTDSalesChart": "https://docs.microsoft.com/en-us/power-bi/media/power-bi-visualization-combo-chart/power-bi-titles-on.png",
+              "WTDSalesChart": "https://docs.microsoft.com/en-us/power-bi/media/power-bi-visualization-combo-chart/power-bi-titles-on.png",
+              "YTDCompsChart": "https://devinknightsql.files.wordpress.com/2016/10/image13.png",
+              "MTDCompsChart": "https://devinknightsql.files.wordpress.com/2016/10/image13.png",
+              "WTDCompsChart": "https://devinknightsql.files.wordpress.com/2016/10/image13.png"
+            },
+            "YTD": {
+              "actual": 0.7,
+              "plan": 1.5,
+              "comp": 2.5,
+              "flag": "below"
+            },
+            "MTD": {
+              "actualCurrentYear": 1.1,
+              "actualLastYear": 1,
+              "flag": "above",
+              "compCurrentYear": 2.2,
+              "compLastYear": -0.2
+            },
+            "WTD": {
+              "actualCurrentYear": 1.1,
+              "actualLastYear": 1,
+              "flag": "above",
+              "compCurrentYear": 2.2,
+              "compLastYear": 2.2
+            }
+          },
+          {
+            "profile": {
+              "store": 100,
+              "nlg": "TTS text - store top line summary",
+              "YTDSalesChart": "https://docs.microsoft.com/en-us/power-bi/media/power-bi-visualization-combo-chart/power-bi-titles-on.png",
+              "MTDSalesChart": "https://docs.microsoft.com/en-us/power-bi/media/power-bi-visualization-combo-chart/power-bi-titles-on.png",
+              "WTDSalesChart": "https://docs.microsoft.com/en-us/power-bi/media/power-bi-visualization-combo-chart/power-bi-titles-on.png",
+              "YTDCompsChart": "https://devinknightsql.files.wordpress.com/2016/10/image13.png",
+              "MTDCompsChart": "https://devinknightsql.files.wordpress.com/2016/10/image13.png",
+              "WTDCompsChart": "https://devinknightsql.files.wordpress.com/2016/10/image13.png"
+            },
+            "YTD": {
+              "actual": 0.7,
+              "plan": 1.5,
+              "comp": 2.5,
+              "flag": "below"
+            },
+            "MTD": {
+              "actualCurrentYear": 1.1,
+              "actualLastYear": 1,
+              "flag": "above",
+              "compCurrentYear": 2.2,
+              "compLastYear": -0.2
+            },
+            "WTD": {
+              "actualCurrentYear": 1.1,
+              "actualLastYear": 1,
+              "flag": "above",
+              "compCurrentYear": 2.2,
+              "compLastYear": 2.2
+            }
+          }
+        ]
+      },
+      {
+        "profile": {
+          "market": 74,
+          "nlg": "Market 74 top line summary",
+          "YTDSalesChart": "https://docs.microsoft.com/en-us/power-bi/media/power-bi-visualization-combo-chart/power-bi-titles-on.png",
+          "MTDSalesChart": "https://docs.microsoft.com/en-us/power-bi/media/power-bi-visualization-combo-chart/power-bi-titles-on.png",
+          "WTDSalesChart": "https://docs.microsoft.com/en-us/power-bi/media/power-bi-visualization-combo-chart/power-bi-titles-on.png",
+          "YTDCompsChart": "https://docs.microsoft.com/en-us/power-bi/media/power-bi-visualization-combo-chart/power-bi-titles-on.png",
+          "MTDCompsChart": "https://docs.microsoft.com/en-us/power-bi/media/power-bi-visualization-combo-chart/power-bi-titles-on.png",
+          "WTDCompsChart": "https://docs.microsoft.com/en-us/power-bi/media/power-bi-visualization-combo-chart/power-bi-titles-on.png"
+        },
+        "YTD": {
+          "actual": 1.7,
+          "plan": 1.5,
+          "comp": 2.5,
+          "flag": "below"
+        },
+        "MTD": {
+          "actualCurrentYear": 1.1,
+          "actualLastYear": 1,
+          "flag": "above",
+          "compCurrentYear": 2.2,
+          "compLastYear": -0.2
+        },
+        "WTD": {
+          "actualCurrentYear": 1.1,
+          "actualLastYear": 1,
+          "flag": "above",
+          "compCurrentYear": 2.2,
+          "compLastYear": 2.2
+        },
+        "stores": [
+          {
+            "profile": {
+              "store": 100,
+              "nlg": "TTS text - store top line summary",
+              "YTDSalesChart": "https://docs.microsoft.com/en-us/power-bi/media/power-bi-visualization-combo-chart/power-bi-titles-on.png",
+              "MTDSalesChart": "https://docs.microsoft.com/en-us/power-bi/media/power-bi-visualization-combo-chart/power-bi-titles-on.png",
+              "WTDSalesChart": "https://docs.microsoft.com/en-us/power-bi/media/power-bi-visualization-combo-chart/power-bi-titles-on.png",
+              "YTDCompsChart": "https://devinknightsql.files.wordpress.com/2016/10/image13.png",
+              "MTDCompsChart": "https://devinknightsql.files.wordpress.com/2016/10/image13.png",
+              "WTDCompsChart": "https://devinknightsql.files.wordpress.com/2016/10/image13.png"
+            },
+            "YTD": {
+              "actual": 0.7,
+              "plan": 1.5,
+              "comp": 2.5,
+              "flag": "below"
+            },
+            "MTD": {
+              "actualCurrentYear": 1.1,
+              "actualLastYear": 1,
+              "flag": "above",
+              "compCurrentYear": 2.2,
+              "compLastYear": -0.2
+            },
+            "WTD": {
+              "actualCurrentYear": 1.1,
+              "actualLastYear": 1,
+              "flag": "above",
+              "compCurrentYear": 2.2,
+              "compLastYear": 2.2
+            }
+          },
+          {
+            "profile": {
+              "store": 100,
+              "nlg": "TTS text - store top line summary",
+              "YTDSalesChart": "https://docs.microsoft.com/en-us/power-bi/media/power-bi-visualization-combo-chart/power-bi-titles-on.png",
+              "MTDSalesChart": "https://docs.microsoft.com/en-us/power-bi/media/power-bi-visualization-combo-chart/power-bi-titles-on.png",
+              "WTDSalesChart": "https://docs.microsoft.com/en-us/power-bi/media/power-bi-visualization-combo-chart/power-bi-titles-on.png",
+              "YTDCompsChart": "https://devinknightsql.files.wordpress.com/2016/10/image13.png",
+              "MTDCompsChart": "https://devinknightsql.files.wordpress.com/2016/10/image13.png",
+              "WTDCompsChart": "https://devinknightsql.files.wordpress.com/2016/10/image13.png"
+            },
+            "YTD": {
+              "actual": 0.7,
+              "plan": 1.5,
+              "comp": 2.5,
+              "flag": "below"
+            },
+            "MTD": {
+              "actualCurrentYear": 1.1,
+              "actualLastYear": 1,
+              "flag": "above",
+              "compCurrentYear": 2.2,
+              "compLastYear": -0.2
+            },
+            "WTD": {
+              "actualCurrentYear": 1.1,
+              "actualLastYear": 1,
+              "flag": "above",
+              "compCurrentYear": 2.2,
+              "compLastYear": 2.2
+            }
+          }
+        ]
+      },
+      {
+        "profile": {
+          "market": 47,
+          "nlg": "Market 47 top line summary",
+          "YTDSalesChart": "https://docs.microsoft.com/en-us/power-bi/media/power-bi-visualization-combo-chart/power-bi-titles-on.png",
+          "MTDSalesChart": "https://docs.microsoft.com/en-us/power-bi/media/power-bi-visualization-combo-chart/power-bi-titles-on.png",
+          "WTDSalesChart": "https://docs.microsoft.com/en-us/power-bi/media/power-bi-visualization-combo-chart/power-bi-titles-on.png",
+          "YTDCompsChart": "https://docs.microsoft.com/en-us/power-bi/media/power-bi-visualization-combo-chart/power-bi-titles-on.png",
+          "MTDCompsChart": "https://docs.microsoft.com/en-us/power-bi/media/power-bi-visualization-combo-chart/power-bi-titles-on.png",
+          "WTDCompsChart": "https://docs.microsoft.com/en-us/power-bi/media/power-bi-visualization-combo-chart/power-bi-titles-on.png"
+        },
+        "YTD": {
+          "actual": 1.7,
+          "plan": 1.5,
+          "comp": 2.5,
+          "flag": "below"
+        },
+        "MTD": {
+          "actualCurrentYear": 1.1,
+          "actualLastYear": 1,
+          "flag": "above",
+          "compCurrentYear": 2.2,
+          "compLastYear": -0.2
+        },
+        "WTD": {
+          "actualCurrentYear": 1.1,
+          "actualLastYear": 1,
+          "flag": "above",
+          "compCurrentYear": 2.2,
+          "compLastYear": 2.2
+        },
+        "stores": [
+          {
+            "profile": {
+              "store": 100,
+              "nlg": "TTS text - store top line summary",
+              "YTDSalesChart": "https://docs.microsoft.com/en-us/power-bi/media/power-bi-visualization-combo-chart/power-bi-titles-on.png",
+              "MTDSalesChart": "https://docs.microsoft.com/en-us/power-bi/media/power-bi-visualization-combo-chart/power-bi-titles-on.png",
+              "WTDSalesChart": "https://docs.microsoft.com/en-us/power-bi/media/power-bi-visualization-combo-chart/power-bi-titles-on.png",
+              "YTDCompsChart": "https://devinknightsql.files.wordpress.com/2016/10/image13.png",
+              "MTDCompsChart": "https://devinknightsql.files.wordpress.com/2016/10/image13.png",
+              "WTDCompsChart": "https://devinknightsql.files.wordpress.com/2016/10/image13.png"
+            },
+            "YTD": {
+              "actual": 0.7,
+              "plan": 1.5,
+              "comp": 2.5,
+              "flag": "below"
+            },
+            "MTD": {
+              "actualCurrentYear": 1.1,
+              "actualLastYear": 1,
+              "flag": "above",
+              "compCurrentYear": 2.2,
+              "compLastYear": -0.2
+            },
+            "WTD": {
+              "actualCurrentYear": 1.1,
+              "actualLastYear": 1,
+              "flag": "above",
+              "compCurrentYear": 2.2,
+              "compLastYear": 2.2
+            }
+          },
+          {
+            "profile": {
+              "store": 100,
+              "nlg": "TTS text - store top line summary",
+              "YTDSalesChart": "https://docs.microsoft.com/en-us/power-bi/media/power-bi-visualization-combo-chart/power-bi-titles-on.png",
+              "MTDSalesChart": "https://docs.microsoft.com/en-us/power-bi/media/power-bi-visualization-combo-chart/power-bi-titles-on.png",
+              "WTDSalesChart": "https://docs.microsoft.com/en-us/power-bi/media/power-bi-visualization-combo-chart/power-bi-titles-on.png",
+              "YTDCompsChart": "https://devinknightsql.files.wordpress.com/2016/10/image13.png",
+              "MTDCompsChart": "https://devinknightsql.files.wordpress.com/2016/10/image13.png",
+              "WTDCompsChart": "https://devinknightsql.files.wordpress.com/2016/10/image13.png"
+            },
+            "YTD": {
+              "actual": 0.7,
+              "plan": 1.5,
+              "comp": 2.5,
+              "flag": "below"
+            },
+            "MTD": {
+              "actualCurrentYear": 1.1,
+              "actualLastYear": 1,
+              "flag": "above",
+              "compCurrentYear": 2.2,
+              "compLastYear": -0.2
+            },
+            "WTD": {
+              "actualCurrentYear": 1.1,
+              "actualLastYear": 1,
+              "flag": "above",
+              "compCurrentYear": 2.2,
+              "compLastYear": 2.2
+            }
+          }
+        ]
+      }
+    ]
+  }
+]
